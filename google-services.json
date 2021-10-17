@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "973239011493",
+    "firebase_url": "https://buzzle-4d83a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "buzzle-4d83a",
+    "storage_bucket": "buzzle-4d83a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973239011493:android:43076dc8c8fd50a798254c",
+        "android_client_info": {
+          "package_name": "com.berkay.buzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973239011493-98phnej8hvib9qet1ale71q7r1a0bq93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC01O0HoD2W-1my5i6TyVIdPowGOkWOnho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973239011493-98phnej8hvib9qet1ale71q7r1a0bq93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
